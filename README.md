@@ -9,4 +9,4 @@ _I am bad at this._
 
 
 Let's add some Moana. 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=ubZrAmRxy_M" target="_blank"><img src="htt[://img.youtube.com/vi/https://www.youtube.com/watch?v=ubZrAmRxy_M/0.jpg" alt="MOANA" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?feature=player_embedded&v=ubZrAmRxy_M" target="_blank"><img src="htt[://img.youtube.com/vi/ubZrAmRxy_M/0.jpg" alt="MOANA" width="240" height="180" border="10" /></a>
